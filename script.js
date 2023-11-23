@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function(){
     const words = [
         { word: "evolution", translation: "еволюція" },
         { word: "gradual", translation: "поступовий" },
